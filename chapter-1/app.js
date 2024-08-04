@@ -1,5 +1,5 @@
 // question-1
-alert("Hello, Where have you been upto!");
+// alert("Hello, Where have you been upto!");
 
 // question-2
 // alert("Error! Please Enter a Valid Password");
@@ -21,3 +21,11 @@ alert("Hello, Where have you been upto!");
 // question-7
 /*Practice placement of <script></script> element in 
 following sections of your project */
+
+
+
+
+
+
+
+
